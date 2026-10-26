@@ -5,7 +5,7 @@
 ## 预览
 
 <p align="center">
-  <img src="docs/server-monitor.png" alt="Server Monitor 界面" width="500">
+  <img src="docs/server-monitor-wide.png" alt="Server Monitor 监测面板与服务器设置" width="960">
 </p>
 
 ## 安装
