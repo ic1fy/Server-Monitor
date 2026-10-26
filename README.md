@@ -2,6 +2,14 @@
 
 <p align="center">在 macOS 菜单栏查看服务器的 GPU、CPU、内存和磁盘使用情况。</p>
 
+<p align="center">
+  <img src="docs/preview.png" alt="Server Monitor 界面" width="500">
+</p>
+
+- 查看 GPU 利用率、显存占用，以及 CPU、内存和磁盘用量。
+- 同时监测多台服务器，支持折叠和切换菜单栏显示。
+- 可选刷新间隔，有无 GPU 的服务器都能使用。
+
 ## 安装
 
 需要 macOS 14+ 和 Xcode Command Line Tools。
